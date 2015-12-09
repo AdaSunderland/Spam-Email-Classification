@@ -1,6 +1,6 @@
 # LING 539 Final Project
 # Information Retrieval and Machine Learning: SPAM E-mail Classification Task
-# Email data from Trec 2007
+# Email data are from Trec 2007
 # By Meng Jia
 
 from __future__ import division
